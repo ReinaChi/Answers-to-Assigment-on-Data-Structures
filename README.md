@@ -2,4 +2,4 @@
 
 This notebook contains my solution to assignment given after last class on data operations
 
-It contain how i used string functions/method/operations in attempting the given question
+It contain how i used string functions/method/operations in attempting the given questions
